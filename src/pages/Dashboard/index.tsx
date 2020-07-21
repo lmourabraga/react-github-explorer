@@ -82,7 +82,7 @@ const Dashboard: React.FC = () => {
 
             <FiChevronRight size={20} />
           </Link>
-        ))};
+        ))}
       </Repositories>
     </>
   );
