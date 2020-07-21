@@ -17,7 +17,7 @@ A study project to put into practice some skills using fundamentals of React JS.
 * Node | Yarn | TypeScript
 * React | React-Router-Dom | React-Icons
 * Axios
-* Styled Components | 
+* Styled Components | Polished
 * Design patterns
   * Editor Config
   * ESLint
